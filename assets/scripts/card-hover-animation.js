@@ -1,10 +1,10 @@
 function handleMouseEnter() {
-    this.classList.add('card__hovered');
-    document.body.id = `${this.id}__hovered`;
+    this.classList.add('card--hovered');
+    document.body.id = `${this.id}--hovered`;
 }
 
 function handleMouseLeave() {
-    this.classList.remove('card__hovered');
+    this.classList.remove('card--hovered');
     document.body.id = '';
 }
 
