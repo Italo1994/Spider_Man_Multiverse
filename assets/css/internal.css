@@ -29,7 +29,7 @@
     width: 100%;
     background-color: gray;
     padding-left: 130px;
-    overflow-y: hidden;
+    overflow-y: auto;
 }
 
 .wrapper .wrapper__main__content .main__content__top {
@@ -55,6 +55,8 @@
     padding: 20px;
     border-radius: 10px;
     text-align: justify;
+    overflow-y: auto;
+    font-size: 12px !important;
 }
 
 .wrapper .main__content__top .description .description__text p {
@@ -75,4 +77,19 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+}
+
+.spiderman-01-01 {
+    background-image: url("../images/spiderman-tobey/movie-01/background.png");
+    background-size: cover;
+}
+
+.spiderman-01-02 {
+    background-image: url("../images/spiderman-tobey/movie-02/background.png");
+    background-size: cover;
+}
+
+.spiderman-01-03 {
+    background-image: url("../images/spiderman-tobey/movie-03/background.png");
+    background-size: cover;
 }
