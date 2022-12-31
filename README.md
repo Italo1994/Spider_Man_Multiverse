@@ -2,8 +2,9 @@
 
 ![capa_spider_man](https://user-images.githubusercontent.com/26884429/209883667-ad19dcba-aa63-4e2b-bb4a-e715b421a0ee.png)
 
-s
 <h1 align="center">Badges</h1>
+
+
 
 ![Data de lançamento](https://img.shields.io/badge/Release%20Date-August-blue)  ![Status do Projeto](https://img.shields.io/badge/Status%20do%20Projeto-Em%20Desenvolvimento-red)
 
